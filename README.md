@@ -12,8 +12,8 @@ You will see one input field where you will type your word or string. You will s
 
 ## Preview
 <p align="Center">
-  <img align="center" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-1.png" width="470">
-  <img align="right" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-2.png" width="470">
+  <img align="center" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-1.png" width="450">
+  <img align="right" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-2.png" width="450">
 </p>
 
 ## Link for the Website
