@@ -11,10 +11,13 @@ A _Palindrome_ is a word, sentence or even number that reads the same backward o
 You will see one input field where you will type your word or string. You will see one button i.e., "Check!" to check whether the word or string is _Palindrome_ or not.
 
 ## Preview
-<img align="left" src="">
-<img align="right" src="">
+<p align="Center">
+  <img align="center" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-1.png" width="470">
+  <img align="right" src="https://github.com/TheNewC0der-24/Palindrome-Checker/blob/master/Preview-2.png" width="470">
+</p>
 
 ## Link for the Website
+https://thenewc0der-24.github.io/Palindrome-Checker/
 
-
+***
 <h3 align="Center">Hope you like it :-)</h3>
