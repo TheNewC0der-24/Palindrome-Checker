@@ -1,0 +1,66 @@
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    width: 275px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+    box-shadow: 2px 31px 35px -15px rgba(0, 0, 0, 0.64);
+    padding: 10px;
+    /* background-color: rgb(202, 202, 202); */
+    background-color: #fac99c;
+} 
+
+.palindrome{
+    width: 500px;
+    margin-top: 5%;
+    color: white;
+}
+
+.input-container{
+    margin: 30px 0;
+}
+
+button{
+    border: 0;
+    outline: 0;
+    background-color: #fff;
+    font-size: 1.2rem;
+    padding: 5px 16px;
+    box-shadow: 0 3px 10px rgba(50, 50, 50, 0.2);
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:active{
+    box-shadow: none;
+}
+
+input{
+    width: 70%;
+    padding: 10px;
+    font-size: 1.1rem;
+    border: 0;
+    outline: 0;
+    border-radius: 25px;
+}
+
