@@ -21,4 +21,8 @@ btnCheck.addEventListener('click', (e) => {
     } else {
         document.querySelector(".output-text").innerHTML = ` <p class="text-center text-danger my-5" style="font-size: 1.25rem; color: black;">It is not a Palindrome !!</p>`;
     }
+    
+    setTimeout(() => {
+        window.location.reload();
+    }, 1500);
 });
